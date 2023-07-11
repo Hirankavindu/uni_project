@@ -1,16 +1,2 @@
-# flutter_submition
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Screenshot of the App</h1>
+<img width="346" alt="Screenshot 2023-07-11 at 23 31 10" src="https://github.com/Hirankavindu/uni_project/assets/97301123/e0c5901c-ad70-4c22-b363-a771e8d9a8ab">
